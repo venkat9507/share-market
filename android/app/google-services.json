@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "539705201549",
+    "project_id": "share-market-b8971",
+    "storage_bucket": "share-market-b8971.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539705201549:android:91a7cd18d0b8572b1ba3c4",
+        "android_client_info": {
+          "package_name": "com.digisailor.flutter_sharemarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539705201549-b0h0gh4jaji47olhpqgdf8omdt328sh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digisailor.flutter_sharemarket",
+            "certificate_hash": "0a3f1d7568d915ff6dd2a81ad6298d2a5e1b3a4e"
+          }
+        },
+        {
+          "client_id": "539705201549-c2p2no96f0ip9mevoj59ph04isrmfhh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATwOmaVZw8PPvynAC2A5HN_CU4QrxGupU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539705201549-c2p2no96f0ip9mevoj59ph04isrmfhh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

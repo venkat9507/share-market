@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/digisailor/flutter_sharemarket/BuildConfig.java
+ com.digisailor.flutter_sharemarket.BuildConfig
